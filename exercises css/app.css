@@ -1,0 +1,18 @@
+body {
+    color: plum;
+}
+
+h2 {
+    color: purple;
+}
+
+section {
+    color: blueviolet;
+}
+
+form {
+    color: plum;
+}
+
+button,
+input {}
