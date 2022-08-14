@@ -15,4 +15,6 @@ form {
 }
 
 button,
-input {}
+input {
+    color: inherit;
+}
