@@ -1,0 +1,17 @@
+section {
+    background-color: plum;
+    width: 800px;
+    height: 800px;
+}
+
+div {
+    background-color: paleturquoise;
+    width: 50%;
+    height: 50%;
+}
+
+h1 {
+    font-size: 40px;
+    border: 1px solid black;
+    line-height: 80px;
+}
